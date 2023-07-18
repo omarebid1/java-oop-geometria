@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9b09675-fa02-49ef-aec6-01566dac3794" name="Changes" comment="Classe Rettangolo finito">
+    <list default="true" id="a9b09675-fa02-49ef-aec6-01566dac3794" name="Changes" comment="Classe Main finito">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/org/lessons/java/geometria/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/geometria/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/lessons/java/geometria/Rettangolo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/geometria/Rettangolo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,12 +63,21 @@
       <option name="project" value="LOCAL" />
       <updated>1689698509765</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Classe Main finito">
+      <option name="closed" value="true" />
+      <created>1689698802792</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1689698802792</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="file creato" />
     <MESSAGE value="Classe Rettangolo finito" />
-    <option name="LAST_COMMIT_MESSAGE" value="Classe Rettangolo finito" />
+    <MESSAGE value="Classe Main finito" />
+    <option name="LAST_COMMIT_MESSAGE" value="Classe Main finito" />
   </component>
 </project>

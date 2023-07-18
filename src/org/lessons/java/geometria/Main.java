@@ -19,6 +19,8 @@ public class Main {
         System.out.println("Area : " + rec.calcolaArea());
         System.out.println("Perimetro : " + rec.calcolaPerimetro());
 
+
+
     }
 
 }

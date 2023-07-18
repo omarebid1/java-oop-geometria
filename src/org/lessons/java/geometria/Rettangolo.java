@@ -29,4 +29,21 @@ public class Rettangolo {
 
     }
 
-}
+    /*
+        public void disegna(){
+            for (int i = 0; i < base; i++){
+
+                System.out.print("0");
+
+                for (int j = 0; j < altezza; j++){
+
+                    System.out.println("0");
+
+                }
+
+            }
+        }
+
+     */
+
+    }
